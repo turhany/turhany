@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=turhany&label=Profile%20views&color=0e75b6&style=flat" alt="turhany" /> </p>
 
-- 🔭 I’m currently working on [Logiwa WMS](https://www.logiwa.com/)
+- 🔭 I’m currently working @ [Logiwa WMS](https://www.logiwa.com/)
 
 - 🌱 I’m currently learning **Domain Driven Design aka DDD**
 
