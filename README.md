@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Türhan Yıldırım</h1>
-<h3 align="left">A passionate backend engineer from Turkey</h3>
+<h3 align="left">A passionate backend engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=turhany&label=Profile%20views&color=0e75b6&style=flat" alt="turhany" /> </p>
 
@@ -8,6 +8,8 @@
 - 🌱 I’m currently learning **Distributed System Design**
 
 - 💬 Ask me about **System Design and .Net Technologies**
+
+- I’m contribute open-source world [**I developed 9 package(just for now :) )**](https://www.nuget.org/profiles/turhany)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
