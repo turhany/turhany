@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working @ [Mobven](https://mobven.com/)
 
-- 🌱 I’m currently learning **Domain Driven Design aka DDD**
+- 🌱 I’m currently learning **Distributed System Design**
 
 - 💬 Ask me about **System Design and .Net Technologies**
 
