@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **System Design and .Net Technologies**
 
-- I’m contribute open-source world [**I developed 9 package(just for now :) )**](https://www.nuget.org/profiles/turhany)
+- Also I contribute open-source world [**I developed 9 nuget package**](https://www.nuget.org/profiles/turhany)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
